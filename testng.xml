@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Vasu">
+  <test name="Venkat">
+    <classes>
+      <class name="com.vasu.testng.AdminLoginTest"/>
+      <class name="com.vasu.testng.FirstTestNg"/>
+      <class name="com.vasu.testng.AnnotationsTest"/>
+      <class name="com.vasu.testng.BeforeTestAfterTest"/>
+      <class name="com.vasu.testng.MultipleTestNg"/>
+    </classes>
+  </test> 
+</suite> 
